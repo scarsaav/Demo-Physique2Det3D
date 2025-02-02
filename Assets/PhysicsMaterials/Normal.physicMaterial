@@ -6,8 +6,8 @@ PhysicMaterial:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: legere
-  dynamicFriction: 0.8
+  m_Name: Normal
+  dynamicFriction: 1
   staticFriction: 0.4
   bounciness: 0.95
   frictionCombine: 0
